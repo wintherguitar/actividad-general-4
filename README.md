@@ -4,6 +4,9 @@ Git: El Sistema de Control de Versiones
 
 ¿Qué es Git?
 ---
+
+![Image](https://github.com/user-attachments/assets/511158be-317c-4510-ba8d-5fa792e98668)
+
 Git es un sistema de control de versiones distribuido (DVCS). En términos sencillos, es una herramienta que rastrea los cambios que realizas en tus archivos a lo largo del tiempo.
 Permite guardar "instantáneas" de tus proyectos, lo que te permite volver a versiones anteriores, comparar cambios y colaborar con otros de manera eficiente.
 Orígenes:
