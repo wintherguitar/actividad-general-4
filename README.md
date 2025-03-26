@@ -7,7 +7,7 @@ Git: El Sistema de Control de Versiones
 
 ![Image](https://github.com/user-attachments/assets/511158be-317c-4510-ba8d-5fa792e98668)
 
-Git es un sistema de control de versiones distribuido (DVCS). En términos sencillos, es una herramienta que rastrea los cambios que realizas en tus archivos a lo largo del tiempo.
+En términos sencillos, es una herramienta que rastrea los cambios que realizas en tus archivos a lo largo del tiempo.
 Permite guardar "instantáneas" de tus proyectos, lo que te permite volver a versiones anteriores, comparar cambios y colaborar con otros de manera eficiente.
 Orígenes:
 Git fue creado por Linus Torvalds en 2005, el mismo creador del sistema operativo Linux.
@@ -69,6 +69,7 @@ En resumen, Git y GitHub son herramientas poderosas que pueden mejorar la colabo
 
 
 aplicaciones de git hub y git:
+---
 
 Documentación y Publicaciones:
 
@@ -99,3 +100,6 @@ Esto es especialmente beneficioso para proyectos de diseño web y la creación d
  Creadores de contenido:
 Escritores, periodistas y otros creadores de contenido utilizan Git para administrar sus borradores, colaborar en artículos y llevar un registro de sus publicaciones. 
 
+
+[pagina oficial de github](https://github.com/)
+[pagina para descargar git](https://git-scm.com/)
